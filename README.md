@@ -1,6 +1,7 @@
-# phone_book_app
+# Flutter Firestore Phone Book App
 
-A new Flutter application.
+A simple phone book application connected to cloud firestore to check and learn about Firestore abilities.
+This app also uses google sign-in
 
 ## Getting Started
 
